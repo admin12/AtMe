@@ -1,0 +1,44 @@
+.commentname {
+	color: #4C4C4C;
+	font-size: 16px;
+	font-family: lucida grande;
+	text-align: right;
+}
+.hiddenCommentName {
+	color: #c3c3c3;
+	font-size: 16px;
+	font-family: lucida grande;
+	text-align: right;
+}
+.commentdate {
+	color: #2c84d7;
+	font-size: 10px;
+	font-family: lucida grande;
+	text-align: right;
+}
+.hiddenCommentDate {
+	color: #c3c3c3;
+	font-size: 10px;
+	font-family: lucida grande;
+	text-align: right;
+}
+.comment {
+	color: #4C4C4C;
+	font-size: 16px;
+	font-family: lucida grande;
+	max-width: 500px;
+}
+.hiddenComment {
+	color: #c3c3c3;
+	font-size: 16px;
+	font-family: lucida grande;
+	max-width: 500px;
+}
+.contbox{
+	color: #2c84d7;
+	background-image:url('images/inputbox.jpg');
+	border: 1px solid #b5b5b5;
+	font-size: 14px;
+	padding: 5px;
+	width: 500px;
+}

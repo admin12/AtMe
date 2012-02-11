@@ -1,0 +1,91 @@
+body{
+	background: grey
+				url(../images/bg1.jpg);
+	color: white;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif;;
+}
+.splash1 {
+	position: relative;
+	background:url(../images/splsh.jpg);
+	height: 400px;
+	width: 600px;
+	margin: auto;
+	margin-top: 76px;
+}
+.splash2 {
+	position: relative;
+	background:url(../images/splsh.jpg);
+	height: 400px;
+	width: 600px;
+	margin: auto;
+	margin-top: 79px;
+}
+.profiles {
+	color: #FFFFFF;
+}
+.subtext {
+	color: #2c84d7;
+	font-size: 10px;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif;
+}
+.register {
+	position: absolute;
+	left: 65px;
+	top: 175px;
+	color: #ffffff;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif;
+}
+.loginform {
+	position: absolute;
+	left: 90px;
+	top: 190px;
+	color: #ffffff;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif;
+}
+.loginform {
+	position: absolute;
+	left: 90px;
+	top: 190px;
+	color: #ffffff;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif;
+}
+.loginbox {
+	height: 35px;
+}
+.login {
+	color: #2c84d7;
+	background-image:url('../images/login.png');
+	border: 2px solid #2c84d7;
+	height: 23px;
+	font-size: 16px;
+	padding: 3px;
+	width: 285px;
+}
+.submit {
+	color: white;
+	font-family: cool_font;
+	font-size: 14px;
+	background:url(../images/submit.png);
+	width: 99px;
+	height: 31px;
+	border: 0px;
+}
+.error {
+  color: #FF0000;
+}
+a:link {
+	color: white;
+}
+a:visited {
+	color: white;
+}
+a:hover {
+	color: #a3cef7;
+}
+.log {
+	text-align: center;
+}
+
+
+
+

@@ -1,0 +1,39 @@
+html, body {
+	background: #FFFFFF;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif;
+	margin: 0;
+	padding: 0;
+	height: 100%;
+}
+#page-container {
+	min-height: 100%;
+	position: relative;
+	//font-family: Arial, Helvetica, Verdana, Sans-serif;
+	color: 4C4C4C;
+}
+#nav {
+	background: url(../images/nav.png);
+	height: 86px;
+	color: white;
+}
+#content {
+	padding: 10px;
+	padding-left: 75px;
+	width: 93%;
+	padding-bottom: 50px;
+}
+a:link {
+	text-decoration: none;
+	color: #a3cef7;
+	
+}
+a:visited {
+	text-decoration: none;
+	color: #a3cef7;
+}
+a:active {
+	text-decoration: underline; color: 2c84d7;
+}
+a:hover {
+	text-decoration: underline; color: 2c84d7;
+}

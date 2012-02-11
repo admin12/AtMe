@@ -1,0 +1,15 @@
+#footer {
+	background: url(../images/footer.jpg);
+	height: 28px;
+	color: white;
+	font-family: Arial, Helvetica, Verdana, Sans-serif;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+	clear: both;
+}
+.footertext {
+	float: right;
+	margin-top: 8px;
+	font-size: 11px;
+	margin-right: 25px;
+}

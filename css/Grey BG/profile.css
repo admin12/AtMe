@@ -1,0 +1,105 @@
+.profile-container{
+	color: white;
+	margin-left: 25px;
+	width: 450px;
+}
+.profile-picture{
+	padding-top: 10px;
+	margin-left: 25px;
+}
+.profile-information{
+	float: right;
+	width: 320px;
+	font-size: 16px;
+}
+.info-left{
+	color: #2c84d7;
+	width: 120px;
+	padding: 8px;
+}
+.info-right{
+	float: right;
+	width: 200px;
+	padding: 8px;
+}
+.info-across{
+	clear: both;
+	margin-left: 145px;
+}
+.profile_comment{
+	margin-left: 160px;
+}
+.comment-container{
+	clear: both;
+	color: white;
+	width: 630px;
+	font-size: 16px;
+}
+.comment-left{
+	width: 160px;
+	color: #2c84d7;
+	padding: 5px;
+}
+.comment-right{
+	float: right;
+	width: 500px;
+	padding: 5px;
+}
+.date{
+	font-size: 10px;
+	color: #FFFFFF;
+}
+.media {
+	background: url(../images/submit.png);
+	height: 26px;
+	width: 270px;
+	padding-top: 5px;
+	padding-left: 28px;
+	margin-bottom: 10px;
+}
+.photos, .videos, .music {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif;
+	font-size: 13px;
+}
+.music, .videos {
+	margin-left: 60px;
+}
+.imgDescription {
+	font-size: 12px;
+}
+.upload {
+	color: #2c84d7;
+	//background: white;
+	//border: 2px solid #2c84d7;
+	float: right;
+}
+a.button:link {
+	text-decoration: none;
+	color: #FFFFFF;
+	
+}
+a.button:visited {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+a.button:active {
+	text-decoration: none; color: #a3cef7;
+}
+a.button:hover {
+	text-decoration: none; color: #a3cef7;
+}
+a.comment:link {
+	text-decoration: none;
+	color: #2c84d7;
+	
+}
+a.comment:visited {
+	text-decoration: none;
+	color: #2c84d7;
+}
+a.comment:active {
+	text-decoration: none; color: #a3cef7;
+}
+a.comment:hover {
+	text-decoration: none; color: #a3cef7;
+}

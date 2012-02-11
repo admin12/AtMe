@@ -1,0 +1,39 @@
+html, body {
+	background: grey
+				url(../images/bg.jpg);
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+#page-container {
+	height: 100%;
+	//font-family: Arial, Helvetica, Verdana, Sans-serif;
+	color: #FFFFFF;
+}
+#nav {
+	position: relative;
+	background: url(../images/nav.png);
+	height: 86px;
+	color: white;
+}
+#content {
+	margin: auto;
+	width: 93%;
+	margin-bottom: 25px;
+	min-height: 540px
+}
+a:link {
+	text-decoration: none;
+	color: #a3cef7;
+	
+}
+a:visited {
+	text-decoration: none;
+	color: #a3cef7;
+}
+a:active {
+	text-decoration: underline; color: 2c84d7;
+}
+a:hover {
+	text-decoration: underline; color: 2c84d7;
+}
